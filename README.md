@@ -1,2 +1,2 @@
 # Maze-Game
-Try to make it through the maze to the top of the screen and touch the diamond. Gain points each time you make it.
+Try to make it through the maze to the top of the screen and touch the diamond. Each time you make it, gain a point and restart with a new maze. If you can't make it through the current maze, you can reshuffle to a different one.
